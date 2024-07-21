@@ -1,0 +1,18 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(242, 242, 242);
+}
+:root{
+    --color: rgb(2,123,255);
+}
+h1{
+    color: var(--color);
+}
+p{
+    background-color: aliceblue;
+
+}
+h2{
+    
+    border-bottom:4px solid var(--color) ; 
+}
